@@ -18,7 +18,8 @@ border-bottom: 2px solid red;
 
 }
 .navbar{
-  position: relative;
+
+  font-size: 16px !important;
   z-index: 1;
 }
 .learn a:hover{
