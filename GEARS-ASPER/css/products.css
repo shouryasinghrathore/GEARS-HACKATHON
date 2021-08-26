@@ -7,12 +7,17 @@
 
 body {
     font-size: 14px;
-   
     color: #1d1c1c;
     line-height: 1.2;
 }
+.underline2{
+  
+width:150px;
+border-bottom: 2px solid red;
+
+
+}
 .learn a:hover{
- 
   border-bottom: 2px solid rgb(126, 124, 124);
   color: rgb(67, 69, 70);
 }
@@ -34,6 +39,7 @@ body {
 .sol{
   height: 450px;
 }
+
 /* main body */
 
 .card-box {
