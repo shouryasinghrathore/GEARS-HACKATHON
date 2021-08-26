@@ -17,6 +17,10 @@ border-bottom: 2px solid red;
 
 
 }
+.navbar{
+  position: relative;
+  z-index: 1;
+}
 .learn a:hover{
   border-bottom: 2px solid rgb(126, 124, 124);
   color: rgb(67, 69, 70);
