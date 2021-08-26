@@ -144,3 +144,10 @@ color: white;
 .sie{
   background-color: #222;
 }
+#preloader{
+  background: #000 url("https://cdn.dribbble.com/users/1984282/screenshots/5560773/for_dribbe.gif") no-repeat center center;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100 !important;
+}
